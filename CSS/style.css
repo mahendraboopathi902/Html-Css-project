@@ -1,0 +1,141 @@
+
+
+
+
+.ma{
+   font-size: 20px;
+   word-spacing: 1.5rem;
+   border: 10px;
+   width: 200px;
+   height: 200px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   text-shadow:3px 2px 2px rgb(15, 12, 12);
+   color: aliceblue;
+
+
+
+}
+
+
+.logo{
+
+}
+
+.heading{
+   position: relative;
+   left: 650px;
+   bottom: 420px;
+   font-size: 200px;
+   width: 200 px;
+   height: 200px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   color: rgb(252, 248, 248);
+   text-shadow:6px 2px 2px rgb(116, 107, 107);
+   
+}
+
+.m{
+   position: relative;
+   left: 1600px;
+   bottom: -200px;
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: aliceblue;
+ 
+   
+
+
+}
+.e{
+   position: relative;
+   left: 1550px;
+   bottom: -250px;
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: aliceblue;
+
+
+}
+.n{
+   position: relative;
+   left: 1460px;
+   bottom: 0px;
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: aliceblue;
+
+}
+.u{
+   position: relative;
+   left: 1360px;
+   bottom: -50px;
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: aliceblue;
+
+}
+.b{
+   position: relative;
+   left: 1280px;
+   bottom: -100px;
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: aliceblue;
+
+}
+.a{
+   position: relative;
+   left: 1210px;
+   bottom: -150px;
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: aliceblue;
+
+}
+.image2{
+   position: relative;
+   left: 360px;
+   bottom: 260px;
+   border: 10px;
+   width: 200px;
+   height: 200px;
+   
+
+}
+.hotel{
+   position: relative;
+   left: 1200px;
+   bottom: 550px;
+   font-size: 50px;
+   font-family:'Times New Roman', Times, serif;
+ color: rgb(0, 0, 0);
+}
+body{
+   background:url("/image/image6.jpg")
+}
+.para{
+   color: aliceblue;
+   font-size: 20px;
+   background-color: rgb(104, 105, 105);
+   
+}
+.float1{
+   color: aliceblue;
+   font-size: 20px;
+   background-color: rgb(104, 105, 105);
+}
+.float2{
+   color: aliceblue;
+   font-size: 20px;
+   background-color: rgb(104, 105, 105);
+}
+.float3{
+   color: aliceblue;
+   font-size: 20px;
+   background-color: rgb(104, 105, 105);
+}
+.float4{
+   color: aliceblue;
+   font-size: 20px;
+   background-color: rgb(104, 105, 105);
+}
